@@ -9,3 +9,10 @@ h1{
     color: rgb(79, 122, 240);
     font-style: italic;
 }
+
+p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+    line-height: 15px;
+    color: blueviolet;
+}
