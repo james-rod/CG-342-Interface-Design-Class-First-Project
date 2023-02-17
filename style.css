@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Mina&display=swap');
+
+*{
+  font-family: "Mina", san-serif;
+}
+
+h1{
+    font-size: 40px;
+    background-color: rgb(153, 201, 207);
+    font-style: italic;
+}
