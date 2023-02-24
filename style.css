@@ -22,7 +22,9 @@ p{
 
 .botton-link{
     background-color: rgb(8, 123, 199);
-    border: none;
+    border-style: solid;
     border-radius: 10px;
+    border-color: blueviolet;
     text-decoration: none;
+    color: white;
 }
