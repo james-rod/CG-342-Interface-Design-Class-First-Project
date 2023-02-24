@@ -20,6 +20,18 @@ p{
     color: blueviolet;
 }
 
+.button-alert{
+    background-color: aquamarine;
+    border-style: double;
+    padding: 10px;
+    border-color: rgb(207, 50, 183);
+    color: white;
+    display: block;
+    width: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+
 .botton-link{
     background-color: rgb(8, 123, 199);
     border-style: solid;
