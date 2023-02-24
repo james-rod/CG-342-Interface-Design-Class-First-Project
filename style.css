@@ -24,8 +24,13 @@ p{
     background-color: rgb(8, 123, 199);
     border-style: solid;
     border-radius: 10px;
+    border-width: 2px;
     padding: 5px;
     border-color: blueviolet;
     text-decoration: none;
     color: white;
+    display: block;
+    width: 100px;
+    text-align: center;
+    margin-top: 20px;
 }
