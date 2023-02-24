@@ -20,12 +20,25 @@ p{
     color: blueviolet;
 }
 
+.top-banner{
+    height: 240px;
+    text-align: center;
+    padding-top: 110px;
+    background-color: rgb(134, 199, 209);
+}
+
+.main-content{
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
 .button-alert{
     background-color: aquamarine;
     border-style: double;
     padding: 10px;
     border-color: rgb(207, 50, 183);
-    color: white;
+    color: black;
     display: block;
     width: 100px;
     text-align: center;
@@ -45,4 +58,10 @@ p{
     width: 100px;
     text-align: center;
     margin-top: 20px;
+}
+
+footer{
+   height: 250px;
+   text-align: center;
+   padding: 0 15px;
 }
