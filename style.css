@@ -56,6 +56,7 @@ nav{
     background-color: rgb(134, 199, 209);
     background-image: url("https://bbts1.azureedge.net/images/p/full/2022/09/c0452d02-47f4-461e-b493-c8f9b14e252e.jpg");
     background-size: cover;
+    background-attachment: fixed;
     margin: 0;
 }
 
