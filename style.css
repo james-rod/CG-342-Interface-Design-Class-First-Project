@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Mina&display=swap');
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     background-color: beige;
     margin: 0;
