@@ -27,6 +27,7 @@ p{
 
 nav{
     background-color: rgb(137, 232, 192);
+    position: fixed;
     padding: 20px;
     width: 100%;
 }
