@@ -21,6 +21,19 @@ p{
     color: blueviolet;
 }
 
+nav{
+    display: flex;
+    padding: 20px;
+}
+
+.nav-links{
+    list-style-type: none;
+}
+
+.nav-links li{
+    display: inline;
+}
+
 .top-banner{
     height: 240px;
     text-align: center;
