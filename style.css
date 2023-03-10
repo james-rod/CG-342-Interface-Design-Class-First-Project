@@ -47,6 +47,7 @@ nav{
 .nav-links li a{
     padding-left: 10px;
     padding-right: 5px;
+    text-decoration: none;
 }
 
 .top-banner{
