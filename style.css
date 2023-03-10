@@ -103,6 +103,14 @@ nav{
     margin-top: 20px;
 }
 
+img{
+    width: 100%;
+}
+
+.article-image{
+    width: 300px;
+}
+
 footer{
    height: 250px;
    text-align: center;
