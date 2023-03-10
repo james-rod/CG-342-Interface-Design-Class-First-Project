@@ -106,6 +106,10 @@ footer{
     body{
       background-color: rgb(111, 197, 247);
     }
+
+    h1{
+        color: rgb(228, 126, 230);
+    }
 }
 
 /* labtop Style*/
