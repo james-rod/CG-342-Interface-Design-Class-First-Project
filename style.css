@@ -74,6 +74,7 @@ nav{
     margin: 0 auto;
     padding: 0 10px;
     background-color: rgb(175, 240, 151);
+    border-radius: 5px, solid black;
 }
 
 .button-alert{
