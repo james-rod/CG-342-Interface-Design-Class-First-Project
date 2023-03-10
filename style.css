@@ -18,6 +18,10 @@ h1{
     font-style: italic;
 }
 
+h2{
+    color: rgb(237, 133, 121)
+}
+
 p{
     font-family: 'Ubuntu', sans-serif;
     font-size: 25px;
@@ -110,6 +114,8 @@ footer{
     h1{
         color: rgb(228, 126, 230);
     }
+
+
 }
 
 /* labtop Style*/
