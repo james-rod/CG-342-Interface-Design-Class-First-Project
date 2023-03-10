@@ -53,6 +53,9 @@ nav{
     padding-left: 10px;
     padding-right: 5px;
     text-decoration: none;
+    background-color: rgb(25, 183, 227);
+    color: white;
+    border-radius: 5px;
 }
 
 .top-banner{
